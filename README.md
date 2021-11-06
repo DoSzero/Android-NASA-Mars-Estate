@@ -15,3 +15,28 @@ It leverages the following components from the [Jetpack library](https://develop
 - [LiveData](https://square.github.io/retrofit/)
 - [Data Binding](https://developer.android.com/topic/libraries/data-binding/) with binding adapters
 - [Navigation](https://developer.android.com/guide/navigation)
+
+
+# How does this work?
+
+<p align="center">
+<img src="Screenshots/architecture-002.png" alt="architecture-002" width="800">
+</p>
+<p align="center">
+<img src="Screenshots/architecture-001 .png" alt="architecture-001" width="400">
+</p>
+
+# Screenshots 
+
+![](Screenshots/000.png)
+![](Screenshots/001.png)
+
+![](Screenshots/002.png)
+![](Screenshots/003.png)
+
+<img align="left" src="https://cloud.githubusercontent.com/assets/532272/21507867/3376e9fe-cc4a-11e6-9350-7ec4f680da36.gif">
+### Also, you can install app-debug.apk to check the app ###
+<br clear="left"/>
+<a href="https://heroku.com/deploy">
+  <img  align="right"  src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
