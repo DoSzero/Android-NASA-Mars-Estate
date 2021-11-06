@@ -9,7 +9,7 @@ This app demonstrates the following views and techniques:
 - [Moshi](https://github.com/square/moshi) which handles the deserialization of the returned JSON to Kotlin data objects
 - [Glide](https://bumptech.github.io/glide/) to load and cache images by URL.
 - [Kotlin Coroutines](https://kotlinlang.org/docs/coroutines-overview.html) a software module specially organized to ensure interaction with other modules on the principle of cooperative multitasking.
-
+____
 It leverages the following components from the [Jetpack library](https://developer.android.com/jetpack):
 - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
 - [LiveData](https://square.github.io/retrofit/)
@@ -30,10 +30,10 @@ It leverages the following components from the [Jetpack library](https://develop
 
 ![](Screenshots/000.png)
 ![](Screenshots/001.png)
-
+____
 ![](Screenshots/002.png)
 ![](Screenshots/003.png)
-
+____
 <img align="left" src="https://cloud.githubusercontent.com/assets/532272/21507867/3376e9fe-cc4a-11e6-9350-7ec4f680da36.gif">
 ### Also, you can install app-debug.apk to check the app ###
 <br clear="left"/>
