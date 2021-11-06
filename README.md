@@ -1,2 +1,2 @@
 # NASA-Mars-Estate
-MarsRealEstate is a simple app using ViewModel &amp; LiveData with Retrofit, Glide and Moshi in Kotlin.
+An app that uses MVVM architecture is a simple app that uses Coroutines, LiveData with Retrofit, Glide, and Moshi in Kotlin.
