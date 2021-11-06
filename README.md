@@ -9,6 +9,7 @@ This app demonstrates the following views and techniques:
 - [Retrofit](https://square.github.io/retrofit/) to make api calls to an HTTP web service
 - [Moshi](https://github.com/square/moshi) which handles the deserialization of the returned JSON to Kotlin data objects
 - [Glide](https://bumptech.github.io/glide/) to load and cache images by URL.
+- [Kotlin Coroutines](https://kotlinlang.org/docs/coroutines-overview.html) a software module specially organized to ensure interaction with other modules on the principle of cooperative multitasking.
 
 It leverages the following components from the [Jetpack library](https://developer.android.com/jetpack):
 - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
