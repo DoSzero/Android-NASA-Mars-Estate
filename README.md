@@ -17,7 +17,7 @@ It leverages the following components from the [Jetpack library](https://develop
 - [Navigation](https://developer.android.com/guide/navigation)
 
 
-# How does this work?
+# How does this work ?
 
 <p align="center">
 <img src="Screenshots/architecture-002.png" alt="architecture-002" width="800">
