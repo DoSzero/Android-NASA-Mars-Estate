@@ -1,6 +1,6 @@
 # Android-NASA-Real-Estate-Mars
-Is Android app that uses Kotlin and [MVVM architecture](https://blog.mindorks.com/mvvm-architecture-android-tutorial-for-beginners-step-by-step-guide) is a simple app that uses Coroutines, LiveData with Retrofit, Glide, Moshi .
-# Connect to the Internet - Mars Real Estate
+Is Android app that uses Kotlin and [MVVM architecture](https://blog.mindorks.com/mvvm-architecture-android-tutorial-for-beginners-step-by-step-guide) is a simple app that uses Coroutines, LiveData with Retrofit, Glide, Moshi.
+# Connect to the Internet - Mars Real Estate.
 ### This is the toy app for Lesson 8 of the Android App Development in Kotlin course on Udacity.
 
 This app demonstrates the following views and techniques:
